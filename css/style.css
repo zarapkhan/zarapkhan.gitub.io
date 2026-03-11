@@ -1,0 +1,23 @@
+body {
+  background-color: lightpink;
+  font-family: Georgia, serif;
+  font-size: 18px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Georgia, serif;
+}
+
+h2 {
+  color: floralwhite;
+  text-align: center;
+  font-family: Georgia, serif;
+}
+
+p {
+  font-family: Georgia, serif;
+  font-size: 18px;
+}
+
